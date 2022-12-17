@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Test Image 3](https://github.com/talehmaharamov/talehmaharamov/header.gif?raw=true)
+![Test Image 3](https://github.com/talehmaharamov/talehmaharamov/blob/main/header.gif?raw=true)
 
 
 <!--
