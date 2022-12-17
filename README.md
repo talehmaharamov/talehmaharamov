@@ -4,9 +4,9 @@
 Welcome to Taleh Maharramov's profile!
 </p>
 <p align="center">
-  <a href="#" >
-    [Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Facebook_icon_%28black%29.svg/1200px-Facebook_icon_%28black%29.svg.png)
-  </a>
+<!--   <a href="#" > -->
+    [Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+<!--   </a> -->
 </p>
 <!--
 **talehmaharamov/talehmaharamov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
