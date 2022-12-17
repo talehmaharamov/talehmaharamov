@@ -4,7 +4,7 @@
 Welcome to Taleh Maharramov's profile!
 </p>
 <p align="center">
-  <img alt=”Facebbok” src=”https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  <img alt=”Facebbok” src=”https://img.shields.io/badge/Facebook-%231877F2.svg"/>
 </p>
 <!--
 **talehmaharamov/talehmaharamov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
