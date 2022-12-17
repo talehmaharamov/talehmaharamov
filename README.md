@@ -6,9 +6,7 @@
 <a href="https://linkedin.com/in/talehmaharamov" target="_blank">
  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
-<a href="https://linkedin.com/in/talehmaharamov" target="_blank">
- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
+
 <a href="https://instagram.com/talehmaharamov" target="_blank">
   ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 </a>
