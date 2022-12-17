@@ -3,9 +3,9 @@
 <p align="center">
 Welcome to Taleh Maharramov's profile!
 </p>
-<p align="center">
+<!-- <p align="center"> -->
   ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-</p>
+<!-- </p> -->
 <!--
 **talehmaharamov/talehmaharamov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
