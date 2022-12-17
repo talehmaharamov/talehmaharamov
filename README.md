@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<img
-src=“header.gif”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![Test Image 3](https://github.com/talehmaharamov/talehmaharamov/header.gif?raw=true)
 
 
 <!--
