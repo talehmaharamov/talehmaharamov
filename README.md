@@ -1,10 +1,10 @@
 ![Test Image 3](https://github.com/talehmaharamov/talehmaharamov/blob/main/header.gif?raw=true)
-
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <p align="center">
 Welcome to Taleh Maharramov's profile!
 </p>
 <p align="center">
-  ![](https://camo.githubusercontent.com/9a80e93dca22e8bc345bef4e92799c1b6fb4481f996b1d69f3f9b0590f92c057/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465)
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </p>
 <!--
 **talehmaharamov/talehmaharamov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
