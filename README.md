@@ -1,7 +1,8 @@
-### Hi there 👋
-
 ![Test Image 3](https://github.com/talehmaharamov/talehmaharamov/blob/main/header.gif?raw=true)
 
+<p align="center">
+Welcome to Taleh Maharramov's profile!
+</p>
 
 <!--
 **talehmaharamov/talehmaharamov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
