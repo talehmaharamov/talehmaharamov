@@ -9,10 +9,12 @@
   ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 </a>
 
-<a href="mailto:talehmeherrem85@gmail.com">
+<!-- <a href="mailto:talehmeherrem85@gmail.com"> -->
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-</a>
+<!-- </a> -->
 
 <p align="center">
 Welcome to Taleh Maharramov's profile!
 </p>
+
+<iframe src="https://talehmaharramov.com"></iframe>
